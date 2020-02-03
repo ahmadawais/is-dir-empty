@@ -22,8 +22,25 @@ npm install is-dir-empty
 ## Usage
 
 ```js
+(async () => {
 const isDirEmpty = require('is-dir-empty');
+const isEmpty = await isDirEmpty(`path/to/directory`); // Reurns true if empty.
+})();
+
 ```
+
+<br />
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
+
+## API
+
+### isDirEmpty(directoryPath)
+
+#### ❯ directoryPath
+
+Type: `string`<br>
+Path to the directory, that gets resolved via `path.resolve()` function.
 
 <br>
 

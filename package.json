@@ -19,6 +19,13 @@
 		"ahmadawais"
 	],
 	"scripts": {
-		"test": "node test.js"
+		"test": "ava"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^3.2.0",
+		"del": "^5.1.0",
+		"make-dir": "^3.0.0",
+		"touch": "^3.1.0"
 	}
 }
