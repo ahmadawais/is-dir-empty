@@ -1,3 +1,6 @@
+name: "✅ TEST: Node.js"
+on: [push]
+
 steps:
   - uses: actions/checkout@v1
   - uses: actions/setup-node@v1
