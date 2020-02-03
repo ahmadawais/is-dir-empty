@@ -29,6 +29,14 @@ I have released a video course to help you become a better developer — <a href
 
 <br>
 
+### RELEASE: [1.1.0](https://github.com/ahmadawais/is-dir-empty/compare/1.0.0...1.1.0)
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 1.0.0
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -45,6 +53,10 @@ I have released a video course to help you become a better developer — <a href
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 Workflows directory [`0eed27c`](https://github.com/ahmadawais/is-dir-empty/commit/0eed27cef71818a035b330ae502ee01f5aa67f2e) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`fdf4e55`](https://github.com/ahmadawais/is-dir-empty/commit/fdf4e5500a329e3189ebc926cace9391e06c9053) <br>
 
 <br>
 
