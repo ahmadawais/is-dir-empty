@@ -23,8 +23,8 @@ npm install is-dir-empty
 
 ```js
 (async () => {
-const isDirEmpty = require('is-dir-empty');
-const isEmpty = await isDirEmpty(`path/to/directory`); // Reurns true if empty.
+    const isDirEmpty = require('is-dir-empty');
+    const isEmpty = await isDirEmpty(`path/to/directory`); // Reurns true if empty.
 })();
 
 ```
