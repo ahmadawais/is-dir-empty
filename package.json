@@ -1,6 +1,6 @@
 {
 	"name": "is-dir-empty",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Check if a directory is empty with Node.js. Promise based.",
 	"license": "MIT",
 	"repository": "ahmadawais/is-dir-empty",
