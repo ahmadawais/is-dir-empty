@@ -1,4 +1,4 @@
-name: "✅ TEST: Node.js"
+name: "🤖 TEST: Node.js"
 on: [push]
 
 jobs:
