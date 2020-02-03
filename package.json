@@ -1,0 +1,24 @@
+{
+	"name": "is-dir-empty",
+	"version": "0.0.1",
+	"description": "Check if a directory is empty with Node.js. Promise based.",
+	"license": "MIT",
+	"repository": "ahmadawais/is-dir-empty",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"is-dir-empty",
+		"Ahmad Awais",
+		"ahmadawais"
+	],
+	"scripts": {
+		"test": "node test.js"
+	}
+}
