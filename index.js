@@ -6,7 +6,5 @@ const path = require("path");
  * Is Dir Empty.
  */
 module.exports = dirPath => {
-	return fs.promises.readdir(path.resolve(__dirname, dirPath)).then(files => {
-		return files.length === 0;
-	});
+	return fs.promises.readdir(path.resolve(__dirname, dirPath)).then(files => files.length === 0);
 };
